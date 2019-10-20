@@ -1,1 +1,0 @@
-# cqrs-via-mediatr
