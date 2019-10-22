@@ -1,5 +1,4 @@
 # CQRS via MediatR
 
-Good Articles:
+Offical Wiki: https://github.com/jbogard/MediatR/wiki
 
-https://dotnetcoretutorials.com/2019/04/30/the-mediator-pattern-part-3-mediatr-library/
